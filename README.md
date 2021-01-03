@@ -7,7 +7,7 @@ This repo is aimed to ease the use of [Anbox](https://anbox.io).
 </br></br>
 
 # Installation
-
+Use ```snap```. There is no need for ```anbox-mdules-dkms``` installation.
 </br></br>
 
 # Google Play Services and Play Store
