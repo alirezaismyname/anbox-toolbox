@@ -1,6 +1,6 @@
 **English** | **[中文](README-zh.md)** | **[فارسی](README-fa.md)**
 
-# Anbox Toolbox
+# Intro - Anbox Toolbox
 This repo is aimed to ease the use of [Anbox](https://anbox.io).
 </br>Anbox allows us to run a variaty of Android apps on Linux.
 
@@ -13,3 +13,6 @@ This repo is aimed to ease the use of [Anbox](https://anbox.io).
 /var/snap/anbox/common/data/media/0
 ```
 Note: ```sudo``` permission should is required to access the path. [Resource](https://askubuntu.com/questions/995836/where-is-anbox-share-folder-with-ubuntu)
+
+# Typing in a non-English language
+Type where you can, then copy the text and paste in an app that you've opened using Anbox.
