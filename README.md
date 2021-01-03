@@ -1,3 +1,5 @@
+**English** | **[中文](README-zh.md)**
+
 # Anbox Toolbox
 This repo is aimed to ease the use of [Anbox](https://anbox.io).
 </br>Anbox allows us to run a variaty of Android apps on Linux.
