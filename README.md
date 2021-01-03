@@ -1,4 +1,4 @@
-**English** | **[中文](README-zh.md)**
+**English** | **[中文](README-zh.md)** | **[فارسی]()**
 
 # Anbox Toolbox
 This repo is aimed to ease the use of [Anbox](https://anbox.io).
